@@ -1,0 +1,4 @@
+certifi==2020.12.5
+portalocker==2.0.0
+sacrebleu==1.4.14
+torch==1.7.1
