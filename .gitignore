@@ -2,6 +2,11 @@
 Models/Sequence to sequence and attention/Seq2Seq and attention.ipynb
 Models/Sequence to sequence and attention/data/eng-fra.txt
 Models/Sequence to sequence and attention/data/names
+data/nahuatl-spanish/more_data/dictionary
+data/nahuatl-spanish/more_data/Stories.ipynb
+data/nahuatl-spanish/more_data/Bible
+data/nahuatl-spanish/more_data/Constitution
+data/nahuatl-spanish/more_data/Stories
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
